@@ -6,7 +6,7 @@ How to Use
 ======================
 1. Install the dependencies:  
 ```npm install express @vonage/server-sdk```
-4. Add your application id on `generate-jwt.js`
-5. Place your private key file on the same directory and set the key path on `generate-jwt.js`
-6. Run the Nodde.js script:  
+2. Add your application id on `generate-jwt.js`
+3. Place your private key file on the same directory and set the key path on `generate-jwt.js`
+4. Run the Node.js script:  
 ```node generate-jwt.js```
